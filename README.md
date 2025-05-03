@@ -109,3 +109,13 @@ Use hashtags consistently to boost visibility.
 ✅ Conclusion
 --------------------------------------------------------------
 This social media trend analysis highlights user engagement, sentiment polarity, and trending topics that businesses can leverage for marketing strategies. The combination of data science tools and visual analytics enables a deeper understanding of what resonates with audiences across different platforms.
+
+Submitted by:
+--------------------------------------------------------------
+JEYA BHARATHI R
+
+Task :01
+
+Track code: DS
+
+FUTURE INTERNS
